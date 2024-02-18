@@ -1,2 +1,0 @@
-echo "This is text"
-grep -i new
